@@ -1,0 +1,2 @@
+﻿Elemental Hero Stratos;4;WIND;Warrior;1800;700
+Elemental Hero Bubbleman;4;Water;Warrior;800;1400
